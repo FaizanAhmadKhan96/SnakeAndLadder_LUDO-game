@@ -1,6 +1,6 @@
 # *Snake and Ladder/LUDO Game*
 
-A CLI based Snake and Ladder game using Rust language
+A CLI based Snake and Ladder/LUDO game using Rust language
 
 You can start the game by: 
 
