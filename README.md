@@ -1,4 +1,4 @@
-# *Snake and Ladder Game*
+# *Snake and Ladder/LUDO Game*
 
 A CLI based Snake and Ladder game using Rust language
 
